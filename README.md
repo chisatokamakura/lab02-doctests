@@ -1,6 +1,6 @@
 # Lab: doctests + continuous integration
 
-[![tests](https://github.com/chisatokamakura/lab02-doctests/actions/workflows/test.yaml/badge.svg)](https://github.com/chisatokamakura/lab02-doctests/actions/workflows/test.yaml)"
+[![tests](https://github.com/chisatokamakura/lab02-doctests/actions/workflows/test.yaml/badge.svg)](https://github.com/chisatokamakura/lab02-doctests/actions/workflows/test.yaml)
 
 **Instructions:**
 
