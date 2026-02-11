@@ -1,6 +1,6 @@
 # Lab: doctests + continuous integration
 
-<img src="https://github.com/chisatokamakura/lab-doctests/workflows/tests/badge.svg" />
+[![tests](https://github.com/chisatokamakura/lab02-doctests/actions/workflows/test.yaml/badge.svg)](https://github.com/chisatokamakura/lab02-doctests/actions/workflows/test.yaml)"
 
 **Instructions:**
 
